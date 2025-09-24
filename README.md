@@ -218,3 +218,7 @@ The Greeks are calculated using their standard Black-Scholes formulas.
 - **Theta** is reported per day (annualized theta / 365).
 - **Vega** is reported per 1% change in volatility (calculated vega / 100).
 - **Rho** is reported per 1% change in the risk-free rate (calculated rho / 100).
+
+## Contact
+[lmrojas99@gmail.com]
+https://www.linkedin.com/in/lmrojasv
