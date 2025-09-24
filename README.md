@@ -1,4 +1,4 @@
-# Cox-Ross-Rubinstein Binomial Option Pricing Model
+# Cox-Ross-Rubinstein Binomial Option Pricing Model And Leisen-Reimer Implementation
 
 This is a C++ implementation of the Cox-Ross-Rubinstein (CRR) binomial option pricing model. The model is used for pricing options by constructing a binomial lattice representing possible paths of the underlying asset price.
 
